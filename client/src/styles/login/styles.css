@@ -1,0 +1,34 @@
+*{
+    /* background-color: #fab23d; */
+}
+.block2{
+    display: flex;
+    justify-content: center;
+    background-color: #13110f;
+    border: 2px solid #e5b906;
+    /* border-radius: 12px; */
+}
+.form{
+    background-color: #E5B906;
+    margin:200px;
+    padding: 6px;
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    background-color: #E5B906;
+    /* margin:39px; */
+    padding:19px;
+    /* display: flex; */
+    font-size: 57px;
+    color:black
+}
+.input{
+    background-color: white;
+    margin: 12px;
+    padding: 12px;
+}
+.newrzr{
+    /* height: 133px; */
+    transform: rotate(114deg);
+}

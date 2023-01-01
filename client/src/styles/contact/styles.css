@@ -1,0 +1,12 @@
+.contact-us{
+    color: gold;
+    background-color: black;
+    height:675px;
+    border:gold 2px solid;
+}
+.main{
+    /* padding:35px */
+}
+.notmain{
+    padding:10px;
+}

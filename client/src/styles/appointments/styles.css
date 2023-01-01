@@ -1,0 +1,37 @@
+
+  /* Style the appointment card */
+  .backpage{
+  background: url("../../public/artApp.jpeg");
+  /* background-color: #cccccc;
+  height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 9px; */
+}
+  .appointment-card {
+    /* color: white; */
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #ddd;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 4px;
+    padding: 20px;
+  }
+  
+  .appointment-card h3 {
+    margin: 0;
+    font-size: 20px;
+  }
+  
+  .cardap{
+    margin: 10px 0;
+    font-size: 17px;
+  }
+  
+  /* Style the footer */
+  
+  
+  
+  
